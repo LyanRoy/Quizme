@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Rodrigo\\Downloads\\Ejemplos-Android-master\\Ejemplos-Android-master\\MultiQuiz\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\239c30c058924d559112b0545c0c3b7c\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Rodrigo\\Downloads\\Ejemplos-Android-master\\Ejemplos-Android-master\\04_MultiQuizPro\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\239c30c058924d559112b0545c0c3b7c\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
